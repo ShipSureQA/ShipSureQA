@@ -1,17 +1,30 @@
 <a href="https://shipsureqa.github.io"><img src="banner.png" alt="ShipSure QA: Ship with confidence" width="100%"></a>
 
-### Hi, I'm Nagarasu 👋 · Senior QA Automation Engineer
+### Hi, I'm Nagarasu 👋 · Senior QA Automation Engineer · AI-powered QA
 
-I help teams **ship with confidence**: test automation that catches bugs before users do, and C# / .NET development that's tested from day one.
+I help engineering teams **release faster with confidence** by combining test automation with **Generative AI and Agentic AI**.
 
 - 🧪 **7+ years in QA**: QA Engineer (SDET) → Senior QA Analyst, e-commerce and banking domains
-- 🤖 Selenium + Java + Cucumber BDD, Playwright + TypeScript, Rest Assured, Postman, Appium
-- ⚙️ C# / ASP.NET Core and website development
+- 🤖 Playwright, Selenium, SpecFlow/Reqnroll (.NET/C#), Java, TypeScript, Python, Cucumber, TestNG, Rest Assured, Postman
+- ☁️ Testing .NET / .NET Core / C# Web APIs and Azure services: APIM, Service Bus, Functions, Storage Queues, Key Vault, App Insights, SQL
 - 🌍 **Available for freelance projects**: UK, US, Canada, Australia, Europe
+
+### 🧠 What I'm building now
+In my current role I build **AI-powered QA agents** with Python, Playwright and Agentic AI, using Claude integrated into VS Code. The agents:
+- Analyse Jira requirements and acceptance criteria
+- Decide the right scope: smoke, functional or regression
+- Trigger Playwright automation and analyse the results
+- Generate HTML reports and post results back to Jira
+
+Current projects: **PHP to .NET migration testing** and **.NET 8 to .NET 10 upgrade testing**.
 
 ### 🛠️ Tech stack
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Reqnroll](https://img.shields.io/badge/Reqnroll%20%2F%20SpecFlow-512BD4?logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
